@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Barrera
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Barrera\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ac\ fila\ columna
+comment1.target=Barrera(AutomataCelular,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Barrera\r\n
+comment2.params=
+comment2.target=int\ getForma()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=Retorna\ el\ color\ de\ \ la\ c\u00E9lula\r\n\ \ \ \ @return\ \r\n
+comment4.params=
+comment4.target=boolean\ isVivo()
+numComments=5

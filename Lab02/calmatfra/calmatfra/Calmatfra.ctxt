@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calmatfra
+comment0.text=\ Calculadora.java\r\n\ Representa\ una\ calculadora\ de\ matrices\ de\ fraccionarios\r\n\ @author\ ESCUELA\ 2018-01\r\n
+comment1.params=
+comment1.target=Calmatfra()
+comment1.text=\r\n\ Crea\ una\ calculadora\ de\ matrices\ de\ fraccionarios\r\n
+comment2.params=variable\ matriz
+comment2.target=void\ asigne(java.lang.String,\ int[][][])
+comment2.text=\r\n\ Agrega\ al\ mapa\ una\ matriz\ cuya\ llave\ es\ variable\r\n\ @param\ el\ nombre\ de\ la\ variable\r\n\ @param\ una\ matriz\ de\ fraccionarios\r\n
+comment3.params=respuesta\ operando1\ operacion\ operando2
+comment3.target=void\ opere(java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment3.text=\r\n\ Realiza\ las\ operaciones\ b\u00E1sicas\ sobre\ las\ ,atrices\ en\ el\ mapa\r\n\ @param\ el\ nombre\ de\ la\ variable\ con\ que\ se\ guardar\u00E1\ el\ resultado\r\n\ @param\ Llave\ de\ una\ de\ las\ matrices\ a\ operar\r\n\ @param\ La\ operaci\u00F3n\ que\ se\ quiere\ realizar\r\n\ @param\ Llave\ de\ la\ otra\ matriz\ a\ operar\r\n
+comment4.params=variable
+comment4.target=java.lang.String\ consulta(java.lang.String)
+comment4.text=\r\n\ Consulta\ la\ matriz\ requerida\ dentro\ del\ mapa\r\n\ @param\ La\ llave\ para\ buscar\ la\ matriz\ en\ el\ mapa\r\n\ @return\ La\ representaci\u00F3n\ en\ cadena\ de\ la\ matriz\r\n
+comment5.params=
+comment5.target=boolean\ ok()
+comment5.text=\r\n\ Revisa\ si\ la\ ultima\ operaci\u00F3n\ realizada\ se\ hizo\ de\ forma\ satisfactoria\r\n\ @return\ true\ si\ se\ hizo\ de\ forma\ satisfactoria\ /\ false\ d.l.c\r\n
+numComments=6

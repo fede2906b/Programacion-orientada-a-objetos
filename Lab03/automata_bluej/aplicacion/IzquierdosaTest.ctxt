@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IzquierdosaTest
+comment0.text=\r\n\ The\ test\ class\ IzquierdosaTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=IzquierdosaTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ IzquierdosaTest\r\n
+comment2.params=
+comment2.target=void\ deberiaMorirSiHayUnElementoVivoASuIzquierda()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ deberiaVivirSiNoHayUnElementoVivoASuIzquierda()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ficha
+comment1.params=fila\ columna\ equipo
+comment1.target=Ficha(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ficha\r\n
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=distancia
+comment3.target=void\ moverHorizontal(int)
+comment4.params=posicionNueva
+comment4.target=void\ move(int[])
+numComments=5

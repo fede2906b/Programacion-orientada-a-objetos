@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Checkers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Checkers\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Checkers()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Checkers\r\n
+comment10.params=
+comment10.target=void\ finish()
+comment11.params=notacion\ simbolo
+comment11.target=int[]\ notacionALista(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ makeVisible()
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment4.params=white\ king\ row\ column
+comment4.target=void\ add(boolean,\ boolean,\ int,\ int)
+comment5.params=white\ men
+comment5.target=void\ add(boolean,\ int[][])
+comment6.params=row\ column
+comment6.target=void\ remove(int,\ int)
+comment7.params=pieces
+comment7.target=void\ remove(int[][])
+comment8.params=
+comment8.target=void\ swap()
+comment9.params=notation
+comment9.target=void\ move(java.lang.String)
+numComments=12

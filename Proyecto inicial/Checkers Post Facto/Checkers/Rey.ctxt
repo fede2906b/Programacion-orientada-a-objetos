@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rey
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rey\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fila\ columna\ equipo
+comment1.target=Rey(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rey\r\n
+numComments=2

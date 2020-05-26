@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AutomataCelular
+comment1.params=
+comment1.target=AutomataCelular()
+comment2.params=
+comment2.target=int\ getLongitud()
+comment3.params=f\ c
+comment3.target=Elemento\ getElemento(int,\ int)
+comment4.params=f\ c\ nueva
+comment4.target=void\ setElemento(int,\ int,\ Elemento)
+comment5.params=
+comment5.target=void\ algunosElementos()
+comment6.params=
+comment6.target=void\ ticTac()
+comment7.params=
+comment7.target=cambios()
+comment8.params=f\ c
+comment8.target=int\ alRededor(int,\ int)
+comment9.params=f\ c\ nueva
+comment9.target=void\ setCelula(int,\ int,\ Celula)
+numComments=10

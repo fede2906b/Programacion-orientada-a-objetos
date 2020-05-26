@@ -1,0 +1,5 @@
+mkdir bin
+
+javac -d bin aplicacion/*.java presentacion/*.java
+
+java -cp bin presentacion.AutomataGUI
